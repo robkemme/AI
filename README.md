@@ -2,8 +2,10 @@
 Building AI course project 
 
 ## Summary
-This text must be replaced with a short description text (about 250 characters) of the project to be developed as soon as this has been defined.
-For now, I am still considering a potential AI project.
+Develop an AI application that analyzes multiple news items from different sources (and different languages) about a specific subject. This way one can get a less biased view about a specific news item. 
+
+## Implementation
+After gathering multiple news items about a specific subject the text is analyzed to determine if the news is presented in a positive or negative way.  
 
 ## Programming language 
 The AI solution will be developed in Python.
