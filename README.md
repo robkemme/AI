@@ -19,7 +19,7 @@ Collect news items from internet (websites, twitter).
 News items in languages other than English. Not all news will be published in the English language. This means that the analyze algorith must either support multiple languages or the text must be translated into English before it can be analyzed.
 
 ## What next?
-If the project is a success, the next step could be to detect fake news or perform fact-checking.
+If the project is a success, the next step could be to detect fake news and/or perform fact-checking.
 
 ## Acknowledgments
 n/a
