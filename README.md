@@ -1,5 +1,5 @@
-# AI
-Building AI course project 
+# AI - News
+Building AI course project to obtain unbiased news
 
 ## Summary
 Develop an AI application that analyzes multiple news items from different sources. The goal is to present a less biased view about a specific topic.  
